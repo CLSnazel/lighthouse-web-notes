@@ -4,7 +4,7 @@
 ###### This is an H6 header, the smallest on this page.
 
 ## Summary
-This is a repo that contains all of Chantal's notes for the Lighthouse Labs Web Development Bootcamp.
+This is a repo that contains all of [Chantal](https://github.com/CLSnazel)'s notes for the Lighthouse Labs Web Development Bootcamp.
 
 ### W1D1
 So far we have learned many things about how this bootcamp will run! There are 5 important rules to follow as we continue forward:
