@@ -9,7 +9,8 @@ This is a repo that contains all of [Chantal](https://github.com/CLSnazel)'s not
 * [Week 1](/Week_1)
 
     * [Day 1](/Week_1/Day_1)
- So far we have learned many things about how this bootcamp will run! There are 5 important rules to follow as we continue forward:
+
+So far we have learned many things about how this bootcamp will run! There are 5 important rules to follow as we continue forward:
 
 1. Always ask for help.
     - especially if you're spending more than 15 minutes on a problem.
